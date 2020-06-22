@@ -1,1 +1,2 @@
 # Projet_Java
+Le but de ce projet concerne la manipulation de fichiers. Plusieurs manipulations comme la suppression, la copie, le chiffrement, la création de fichier, doivent être effectuées. Chaque manipulation a son code source correspondant, avec les différentes méthodes utilisées commentées. Le code source "fichier" contient toutes ces méthodes, ainsi qu'une méthode main permettant le test des manipulations. 
